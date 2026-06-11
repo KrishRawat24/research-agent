@@ -1,0 +1,15 @@
+langgraph==0.2.55
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-community==0.3.13
+langchain-core==0.3.28
+tavily-python==0.5.0
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+httpx==0.28.1
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+streamlit==1.41.1
+requests==2.32.3
+aiosqlite==0.20.0
